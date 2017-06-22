@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Horizontal Text Arragement</string>
+    <string name="text_good">Good</string>
+    <string name="text_worst">Worst</string>
+    <string name="text_bad">Bad</string>
+    <string name="text_ok">OK</string>
+    <string name="text_normal">Normal</string>
+    <string name="btn_animate">Animate</string>
+</resources>
